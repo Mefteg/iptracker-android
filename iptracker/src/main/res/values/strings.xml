@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iptracker-android</string>
+    <string name="device_name">Device name</string>
+    <string name="save">Save</string>
+    <string name="post">Post</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

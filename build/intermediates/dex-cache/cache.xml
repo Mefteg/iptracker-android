@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/tom/work/github/iptracker-android/iptracker/build/intermediates/pre-dexed/debug/classes-8e8683795fdfc7506c92a65eef0ae372fcc16a62.jar"
+        jar="/home/tom/work/github/iptracker-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/home/tom/work/github/iptracker-android/iptracker/build/intermediates/pre-dexed/debug/support-v4-19.1.0-9183e95b957c4b7252e55d8153d6f739bada13ee.jar"
+        jar="/home/tom/opt/Android/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
